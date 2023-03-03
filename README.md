@@ -2,7 +2,7 @@
 
 Esse projeto tem como objetivo desenvolver um sistema de recomendação de filmes que possa sugerir aos usuários filmes que eles possam gostar.
 
-Em **[experimentation.ipynb](recommendation system/experimentation.ipynb)** é explorado algumas heuristicas para realização das recomendações, tais quais:
+Em **experimentation.ipynb** é explorado algumas heuristicas para realização das recomendações, tais quais:
 
 1. Totais de votos com respectiva nota média.
 2. Maior nota média (com um mínimo de votos)
